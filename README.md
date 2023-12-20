@@ -1,1 +1,2 @@
 # craftshop
+The "Craftshop" is a web platform designed to connect seller with customer seeking their services.in that HTML, CSS, partially javascript language are use for frontend. The system facilitates seamless order decorative itams, allowing users to create account,add to cart, manage order, and handle payments securely. It aims to streamline the process of ordering itam's services while providing a user-friendly interface for efficient interactions between seller and customer
